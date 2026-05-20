@@ -1,6 +1,6 @@
 Ellen Lopes De Souza
 
-ercebi que o hook fazia muita coisa parecida em pontos diferentes e isso deixava o código mais pesado do que precisava
+percebi que o hook fazia muita coisa parecida em pontos diferentes e isso deixava o código mais pesado do que precisava
 
 o que eu fiz foi separar melhor as partes: a regra da tela ficou no hook, e a parte que simula os dados ficou no service. Também deixei as ações mais diretas no estado, sem ficar recarregando a lista inteira o tempo todo
 
